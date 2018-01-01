@@ -1,13 +1,13 @@
 * Rawinala *
 
-<img src="https://www.rawinala.org/assets/images/logo.png" width="48px" 
-height="48px">
+<img src="https://www.rawinala.org/assets/images/logo.png" width="64px" 
+height="64px">
 
 Rawinala is one of MDVI (Multiple Disability and Visual Impairment) 
 school recognized throughout Indonesia for helping student with multiple 
 disabilities such as mental retardation, physical and multiple 
 disabilities, visual impairment, Development Disorder, Hearing 
-impairment. [wikipedia](https://en.wikipedia.org/wiki/Rawinala)
+impairment. [(Wikipedia)](https://en.wikipedia.org/wiki/Rawinala)
 
 The [website](https://www.rawinala.org/) is built using CodeIgniter. It 
 has several features:
