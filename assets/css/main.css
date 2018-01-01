@@ -1,0 +1,130 @@
+body {
+    /*background-color: #F8F1F5;*/
+    font-family: 'Roboto', sans-serif;  
+    height: 100vh;
+    min-height: 100vh;
+    padding-top: 104px;
+}
+
+nav#rawinala-navbar {
+    background-color: rgba(255, 255, 255, 0.95);
+    border-bottom: 1px solid rgba(189, 189, 189, 0.99); /* #BDBDBD */
+}
+
+a.nav-link:hover {
+    background-color: #E1BEE7;
+    color: orangered;
+}
+
+div.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+h1.home-h1{
+    text-align: center; 
+    margin-top: 25px; 
+    margin-bottom: 25px; 
+    padding-top: 25px; 
+    padding-bottom: 25px; 
+    background-color: #cfd8dc
+}
+
+h1.home-h1-prime{
+    text-align: center; 
+    background-color: #cfd8dc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.row .overview {
+    background-color: #E8EAF6; 
+    border: 0.5px solid white;
+    margin-bottom: 10px;
+}
+
+.row .overview:hover {
+    border: 1px solid #7986CB;
+}
+
+address {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#map {
+    /*height: 320px;
+    width: 480px;*/
+    width: 100%;
+    /*height: 100%;*/
+    min-height: 320px;
+}
+
+form.form-create-article, form.form-edit-article, form.form-create-newsletter {
+    padding-top: 30px;
+}
+
+/* Pagination box */
+div.pagination-box {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* Message table and message item page*/
+/* ..and blog article on home page */
+table.table-messages, div.message-item, div.latest-news {
+    font-family: 'Cabin', sans-serif;
+}
+
+/* Message body */
+div.message-body {
+    padding: 20px 15px 0 15px;
+    margin-bottom: 25px;
+}
+
+/* Kepengurusan */
+table.kepengurusan {
+    width: 550px;
+    margin: 0 auto;
+}
+
+table.kepengurusan th {
+    text-align: left;
+}
+
+table.kepengurusan td {
+    text-align: right;
+}
+
+/* ReCAPTCHA */
+.grecaptcha-badge {
+    background-color: grey;
+    box-shadow: none !important;
+    /*width: auto !important;*/
+    margin: 10px 10px 15px 0;
+}
+
+.rw-footer{
+    background-color: black; 
+    color: rgb(230, 230, 230);
+    /*height: 200px;*/
+    margin-top: 50px;
+    padding: 20px 10px 20px 10px;
+}
+
+.rw-footer p.about-center {
+    text-align: center;
+}
+
+.rw-footer p.affiliation a img {
+    height: 40px;
+    width: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+}

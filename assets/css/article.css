@@ -1,0 +1,34 @@
+div.article, div.article-item {
+    font-family: 'Cabin', sans-serif;
+}
+
+div.pagination-box p a, div.pagination-box p strong {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+div.article h1, div.article-item h2 {
+    padding-top: 30px;
+}
+
+div.article p.article-detail, div.article-item p.article-detail {
+    color: #6E6E6E;
+}
+
+div.article div.article-body {
+    padding-top: 16px;
+}
+
+div.article-item {
+    border-bottom: solid #f3d9d9;
+}
+
+div.article-item img {
+    max-width: 128px;
+    height: auto;
+}
+
+div#disqus_thread {
+    border-top: 1px solid #919191;
+    margin-top: 50px;
+}
