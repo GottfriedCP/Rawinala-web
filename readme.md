@@ -1,4 +1,4 @@
-* Rawinala *
+# Rawinala #
 
 <img src="https://www.rawinala.org/assets/images/logo.png" width="64px" 
 height="64px">
