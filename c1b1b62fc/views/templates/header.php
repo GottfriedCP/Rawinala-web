@@ -21,8 +21,8 @@
     }
 </script> <!-- Google Recaptcha END -->
 <link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap/bootstrap.min.css'); ?>">
-<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Cabin:400,400i" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet"> 
 <link rel="stylesheet" href="<?php echo base_url('assets/css/main.css'); ?>">
 <link rel="stylesheet" href="<?php echo base_url('assets/css/login.css'); ?>">
 <link rel="stylesheet" href="<?php echo base_url('assets/css/article.css'); ?>">
