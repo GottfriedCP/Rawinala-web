@@ -1,7 +1,8 @@
 <div class="container" style="padding-top: 70px; padding-bottom: 30px">
     <h2>Donasi</h2>
     <p>
-        Kami menerima donasi melalui rekening bank dan kartu kredit (via PayPal).
+        Kami menerima donasi melalui rekening bank dan kartu kredit (via PayPal). Konfirmasi dapat dilakukan via email atau 
+<a href="/contact">form kontak</a>.
     </p>
     <div class="row">
         <div class="col-md-6">
