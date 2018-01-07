@@ -22,6 +22,10 @@
         <img src="<?php echo base_url('assets/images/perkins_logo.png'); ?>" height="80" alt="perkins-logo">
       </a>
     </p>
+    <br>
+    <!-- LINK TO SOURCE CODE -->
+    <p class="about-center"><small><a href="https://github.com/GottfriedCP/Rawinala-web" target="_blank">[source 
+code]</a></small></p>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
