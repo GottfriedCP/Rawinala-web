@@ -8,6 +8,7 @@ class Member extends CI_Controller {
         $this->load->model('User_model', 'user');
         $this->load->model('Message_model', 'msg');
         $this->load->helper('form');
+        $this->load->helper('secrets');
     }
 
     public function login() {
@@ -24,7 +25,7 @@ class Member extends CI_Controller {
     
     public function authenticate() {
         if (!'post' == $this->input->method()) { redirect('/'); }
-        $recaptcha_secret = "6Le1xzIUAAAAAAoOvQGPyMhLzRSIALCS7-Ob9oY9";
+        $recaptcha_secret = get_rcp_secret_key();
         $response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$recaptcha_secret."&response=".$this->input->post('g-recaptcha-response'));
         $response = json_decode($response, true);
         

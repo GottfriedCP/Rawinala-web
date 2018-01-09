@@ -18,6 +18,7 @@ readme.rst
 sitemap.xml
 .well-known
 c1b1b62fc/config/secrets.php
+c1b1b62fc/helpers/secrets_helper.php
 assets/images/uploads
 assets/css/bootstrap
 assets/js/bootstrap
