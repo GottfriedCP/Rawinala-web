@@ -1,7 +1,8 @@
 <div class="container" style="padding-top: 70px; padding-bottom: 30px">
     <h2>Donasi</h2>
     <p>
-        Kami menerima donasi melalui rekening bank dan kartu kredit (via PayPal). Konfirmasi dapat dilakukan via email atau 
+        Kami menerima donasi melalui rekening bank (Mandiri atau BCA) dan kartu kredit (via PayPal). Konfirmasi dapat dilakukan 
+via email atau 
 <a href="/contact">form kontak</a>.
     </p>
     <div class="row">
@@ -9,7 +10,7 @@
             <address>
                 <strong>Nomor Rekening Rawinala: </strong><br><br>
                 <strong>Bank Mandiri</strong> KCP RS. Thamrin <br>
-                129.000.128.1449 <br>
+                129.000.128.1449 <br><br>
                 <strong>BCA</strong> KCP Rawamangun <br>
                 094.300.2689 <br>
             </address>
